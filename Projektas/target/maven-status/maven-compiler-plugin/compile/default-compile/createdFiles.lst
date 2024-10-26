@@ -1,0 +1,5 @@
+com\example\taskmanager\Task.class
+com\example\taskmanager\TaskController.class
+com\example\taskmanager\TaskManagerApplication.class
+com\example\taskmanager\TaskService.class
+com\example\taskmanager\TaskRepository.class
