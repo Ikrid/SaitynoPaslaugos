@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="library.xsd">
+    <libraryName>Central City Library</libraryName>
+    <address>123 Library Lane, Central City</address>
+    <books>
+        <Book>
+            <isbn>978-3-16-148410-0</isbn>
+            <title>Introduction to Algorithms</title>
+            <author>Thomas H. Cormen</author>
+            <publishedYear>2009</publishedYear>
+            <availableCopies>10</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-0-262-03384-8</isbn>
+            <title>Artificial Intelligence: A Modern Approach</title>
+            <author>Stuart Russell</author>
+            <publishedYear>2020</publishedYear>
+            <availableCopies>5</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-1-59327-584-6</isbn>
+            <title>Automate the Boring Stuff with Python</title>
+            <author>Al Sweigart</author>
+            <publishedYear>2019</publishedYear>
+            <availableCopies>7</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-1-491-91241-1</isbn>
+            <title>Clean Code</title>
+            <author>Robert C. Martin</author>
+            <publishedYear>2008</publishedYear>
+            <availableCopies>12</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-0-596-52068-7</isbn>
+            <title>Design Patterns</title>
+            <author>Erich Gamma</author>
+            <publishedYear>1994</publishedYear>
+            <availableCopies>8</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-1-4842-4227-6</isbn>
+            <title>Pro Java Programming</title>
+            <author>Brett Spell</author>
+            <publishedYear>2019</publishedYear>
+            <availableCopies>6</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-0-13-235088-4</isbn>
+            <title>Effective Java</title>
+            <author>Joshua Bloch</author>
+            <publishedYear>2018</publishedYear>
+            <availableCopies>4</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-1-491-99445-6</isbn>
+            <title>Python Crash Course</title>
+            <author>Eric Matthes</author>
+            <publishedYear>2015</publishedYear>
+            <availableCopies>9</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-0-321-35668-0</isbn>
+            <title>The Pragmatic Programmer</title>
+            <author>Andrew Hunt</author>
+            <publishedYear>1999</publishedYear>
+            <availableCopies>11</availableCopies>
+        </Book>
+        <Book>
+            <isbn>978-0-13-468599-1</isbn>
+            <title>Java Concurrency in Practice</title>
+            <author>Brian Goetz</author>
+            <publishedYear>2006</publishedYear>
+            <availableCopies>3</availableCopies>
+        </Book>
+    </books>
+</Library>
+
